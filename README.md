@@ -1,4 +1,5 @@
-# Recipe Analyzer Updated by Vali Khan
+# Recipe Analyzer
+   Updated By Vali Khan
 
 This repository contains a typescript library for computing nutritional data
 for recipes contained in a Google Doc.  It contains Google Apps Script code
